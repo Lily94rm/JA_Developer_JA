@@ -1,0 +1,12 @@
+body {
+    background-image: linear-gradient(to right, #d999f3, #6cebf7, #74c4f5, #77adf5, #1d8d55);
+    height: 100vh;
+}
+img{
+    display: flex;
+    justify-content: center;
+}
+header{
+    display: block;
+   flex-direction: row;
+}

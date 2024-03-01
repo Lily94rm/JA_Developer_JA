@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+header{
+display: flex;
+background-color: rgb(126, 183, 248);
+margin: 1.5%;
+}
+body{background-image: linear-gradient(to right, #d999f3, #6cebf7, #74c4f5, #77adf5, #1d8d55);
+    height: 100vh;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    background-image: -moz-radial-gradient(to right, #06bdf5, #77d8f5, #ebaaf8 );
+}
+
+    .imagen1{
+background-color: rgb(238, 189, 186);
+display: flex;
+align-items: center;
+}
+
+.barra{
+    background-color: rgb(50, 170, 100);
+}
+p{
+    font-family:"Libre Baskerville", serif;
+    
+}
+.logos{
+    display: flex;
+    flex-direction: row;
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+
+}
+img{
+    display: flex;
+    justify-content: center;
+    margin: 3%;
+}
+footer{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+}

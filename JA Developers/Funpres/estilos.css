@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&display=swap');
+
+
+H1{
+    display: flex;
+   color: #235b8aa6;
+   justify-content: center;  
+   font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+
+}
+.class p{
+    margin: 10px 0 10px 0;
+    font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  justify-content: center;
+  margin: 10px 0 10 0;
+  align-items: center;
+  text-align: center;
+  font-style: normal;
+}
+
+img{
+    display: block;
+    margin: auto;
+    width: 20%;
+
+
+}
+
+.laresolucióndeproblemas {
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    justify-content: center;
+    margin: 10px 0 10 0;
+    align-items: center;
+    text-align: center;
+    font-style: normal;
+}
+
+header
+{
+justify-content: center;
+ font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: #235b8aa6;
+}
+ 
+
+
+
+
+
+
+
+
+
